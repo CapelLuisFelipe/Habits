@@ -60,7 +60,8 @@ npm run dev # ou yarn dev
 A aplicação estará disponível em **http://localhost:5173/** (ou outra porta definida no Vite).
 
 ## 📷 Capturas de Tela
-_(Adicione aqui algumas screenshots da aplicação em funcionamento.)_
+<img width="1470" alt="Captura de Tela 2025-01-29 às 22 15 09" src="https://github.com/user-attachments/assets/b68787a4-896d-42f6-900e-dfca7354f4d7" />
+
 
 ## 📌 Funcionalidades
 ✅ Registro e edição de hábitos
